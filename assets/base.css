@@ -1,0 +1,143 @@
+.profile{
+	font-size:.875em;
+	line-height:1.42857em
+}
+.profile-masthead{
+	float:left;
+	padding-top:2.85714em;
+	padding-bottom:.92857em;
+	width:100%
+}
+.profile-logo{
+	*zoom:1;
+	min-height:80px;
+	position:relative
+}
+.profile-logo-image{
+	float:left;
+	height:80px;
+	margin-bottom:.5em;
+	margin-left:auto;
+	margin-right:auto;
+	width:80px
+}
+.profile-name{
+	font-size:2em;
+	line-height:2.57143em;
+	-webkit-box-orient:vertical;
+	-moz-box-orient:vertical;
+	-ms-box-orient:vertical;
+	box-orient:vertical;
+	-webkit-box-pack:center;
+	-moz-box-pack:center;
+	-ms-box-pack:center;
+	box-pack:center;
+	display:-webkit-box;
+	display:-moz-box;
+	display:-ms-box;
+	display:box;
+	font-weight:300;
+	min-height:2.57143em;
+	margin-left:98px;
+	margin-top:.03571em
+}
+.profile-summary{
+		width:48.61111%;
+		float:right;
+		margin-right:0;
+		#margin-left:-20px;
+		display:inline;
+		-webkit-box-orient:vertical;
+		-moz-box-orient:vertical;
+		-ms-box-orient:vertical;
+		box-orient:vertical;
+		-webkit-box-pack:center;
+		-moz-box-pack:center;
+		-ms-box-pack:center;
+		box-pack:center;
+		display:-webkit-box;
+		display:-moz-box;
+		display:-ms-box;
+		display:box;
+		float:none
+}
+
+.summary-module a{
+	display:block
+}
+.profile-content{
+	*zoom:1;
+	clear:both;
+	position:relative
+}
+.profile-description{
+	padding-bottom:.64286em;
+	text-align:center
+}
+	.profile-menu{
+		margin-top:.64286em
+}
+	.menu-navigation{
+		margin-top:-0.07143em
+}
+	.menu-navigation-list{
+		width:100%
+}
+	.menu-navigation-list-item{
+		font-size:1em;
+		line-height:1.57143em
+}
+	.menu-category:first-of-type:only-child:before{
+		top:0
+}
+	.menu-category-list:first-of-type.has-images{
+		margin-top:.5em
+}
+	.menu-category-name,.homepage-section-name{
+		margin-bottom:.14286em
+}
+	.menu-item{
+		margin-top:1.42857em
+}
+	.menu-item-image:before{
+		display:none
+}
+	.menu-item-image img{
+		display:none
+}
+	.menu-item-info{
+		min-height:21px
+}
+	.has-images .menu-item-info{
+		position:relative
+}
+	.has-images .menu-item:hover .menu-item-info{
+		height:auto
+}
+.btn-view-full-menu{
+	background:0;
+	border:0;
+	color:#3e8cb7;
+	cursor:pointer;
+	display:block;
+	font-size:14px;
+	margin-bottom:-2.95em;
+	padding-top:2.64286em;
+	padding-bottom:2.28571em;
+	position:relative;
+	top:-3.1em;
+	text-align:center;
+	width:100%;
+	-webkit-font-smoothing:antialiased
+}
+.footer{
+	background:#f4f5f6;
+	border-top:1px solid #eff0f1;
+	width:100%
+}
+.footer-navigation{
+	color:#b0b8c1;
+	margin:0 auto;
+	padding-top:1.35714em;
+	padding-bottom:1.14286em;
+	text-align:center
